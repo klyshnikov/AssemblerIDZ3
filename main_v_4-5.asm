@@ -3,7 +3,7 @@
 .data
 # eqv
 .eqv FILE_NAME_SIZE 256
-.eqv TEXT_SIZE 512
+.eqv TEXT_SIZE 4096
 
 # some buffers
 file_name: .space FILE_NAME_SIZE
